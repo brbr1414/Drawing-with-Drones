@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/changwoonlee/Library/CloudStorage/OneDrive-개인(2)/공부,경제성업무관련/코드/B_프로젝트/Drawing_with_Drones/Drawing-with-Drones/Test",
+      "program": "/Users/changwoonlee/Library/CloudStorage/OneDrive-개인(2)/공부,경제성업무관련/코드/B_프로젝트/Drawing_with_Drones/Drawing-with-Drones/Test/build/Debug/outDebug"
+    }
+  ]
+}
